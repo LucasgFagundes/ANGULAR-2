@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+:root{
+    font-size: 63.5%;
+}
+
+h1{
+    color: crimson;
+    font-size: 9.6rem;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: 3.2em;
+
+}
+
+.novo-em{
+    font-size: 300%;
+}
+
+.bg{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+    background-image: url('https://images.unsplash.com/photo-1699019950419-ffe12ae956c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p{
+    font-size: 1.8rem;
+    text-align: justify;
+    text-indent: 90px;
+}
+
+a{
+    font-size: 2.4rem;
+    color: red;
+}
+
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: aqua;
+}
